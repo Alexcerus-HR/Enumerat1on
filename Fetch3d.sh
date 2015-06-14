@@ -1,6 +1,6 @@
 #!/bin/bash
 #  Fetch3d
-# By : Alexcerus-HR
+# By : Lucifer-HR
 
 #tput colors if you want add something ..
 txtund=$(tput sgr 0 1) # Underline
