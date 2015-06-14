@@ -1,6 +1,6 @@
 #!/bin/bash
 #Enumerat1on script
-#Created By: Alexcerus-HR #original author 
+#Created By: Lucifer-HR #original author 
 #Greetz to team : joinse7en..
 #Working with linux x86 all systems Enumeration tool 
 # 
